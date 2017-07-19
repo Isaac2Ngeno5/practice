@@ -1,0 +1,1 @@
+write a program that checks whether an element occurs in an array

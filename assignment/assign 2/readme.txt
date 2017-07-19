@@ -1,0 +1,1 @@
+write a program that asks the user for number n and prints the sum of numbers 1 to n.

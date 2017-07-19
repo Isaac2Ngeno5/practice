@@ -1,0 +1,1 @@
+write a program that asks user to enter a number and prints its fuctorial using recursion

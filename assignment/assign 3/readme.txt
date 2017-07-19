@@ -1,0 +1,1 @@
+write a program that asks user for a number and give them the possibility to choose between computing the sum and computing the factorial 1,...,n

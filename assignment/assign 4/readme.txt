@@ -1,0 +1,1 @@
+write a function which returns the largest element in an array
